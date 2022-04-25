@@ -125,7 +125,7 @@ class SelectedPlaceScreen extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: <Widget>[
                             Text(
-                              'Start from',
+                              'Color LineE',
                               style: TextStyle(
                                   fontSize: 16.8,
                                   fontWeight: FontWeight.w500,

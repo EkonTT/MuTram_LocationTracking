@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:mutram/selected_place_screen.dart';
 
 import 'HomeScreen.dart';
 

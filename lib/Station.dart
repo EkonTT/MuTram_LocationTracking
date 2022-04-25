@@ -29,7 +29,7 @@ List stationData = [
     ],
     "description":
     "Prince Mahidol Hall was designed for multipurpose music, commencement ceremonies, and so forth.",
-    "line": "Red/Yellow Line"
+    "line": "Red/Yellow"
   },
   {
     "location": "Mahidol Learning Center",
@@ -44,7 +44,7 @@ List stationData = [
     ],
     "description":
     "The Mahidol Learning Center consists of an innovation center, 400-seat auditorium, mini-theater, and exhibition area.",
-    "line": "Yellow Line"
+    "line": "Yellow"
   },
   {
     "location": "MU LAKE",
@@ -59,6 +59,6 @@ List stationData = [
     ],
     "description":
     "MU Lake is full of people who come to exercise or watch the sunset.",
-    "line": "Blue Line"
+    "line": "Blue"
   },
 ];

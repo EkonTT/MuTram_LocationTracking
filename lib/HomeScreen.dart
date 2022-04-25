@@ -130,7 +130,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
                 //=====TRAM COLOR LINE=====
                 // ListView widget with PageView
-                // Recommendations Section
+                // Tram Route Section
                 Container(
                   height: 218.4,
                   margin: EdgeInsets.only(top: 16),
@@ -334,7 +334,8 @@ class _HomeScreenState extends State<HomeScreen> {
                         onTap: () {
                           Navigator.of(context).push(MaterialPageRoute(
                               builder: (context) => SelectedMapScreen(
-                                  mapModel: map[index])));
+                                // mapModel: map[index]
+                              )));
                         },
                         child: Container(
                           margin: EdgeInsets.only(right: 28.8),
